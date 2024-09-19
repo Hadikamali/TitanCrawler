@@ -1,7 +1,5 @@
 # TitanCrawler
 
-![TitanCrawler Logo](https://example.com/logo.png) <!-- Optional: Replace with actual logo URL or remove -->
-
 ## Overview
 
 **TitanCrawler** is a robust, multi-threaded web crawler designed for efficient and ethical web scraping. Built with Python, it incorporates advanced features such as concurrency, respect for `robots.txt`, user-agent rotation, and comprehensive logging. TitanCrawler is ideal for developers and data enthusiasts who need a powerful tool to crawl websites responsibly.
